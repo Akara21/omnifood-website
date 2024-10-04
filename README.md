@@ -29,7 +29,7 @@ Omnifood is a technology-driven company focused on consumer well-being through h
 Try our healthy, tasty meals with a free sample!
 
 ## Additional Links
-- **Website:** [https://omnifood.com](https://omnifood.dev/)
+- **Website:** [omnifood.com](https://omnifood.dev/)
 - **Apps:** iOS and Android (Links not available yet)
 
 ## Sections
