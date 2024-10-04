@@ -28,11 +28,6 @@ Omnifood is a technology-driven company focused on consumer well-being through h
 ## Free Sample Meal
 Try our healthy, tasty meals with a free sample!
 
-## Contact
-- **Address:** 623 Harrison St., 2nd Floor, San Francisco, CA 94107
-- **Phone:** 415-201-6370
-- **Email:** hello@omnifood.com
-
 ## Additional Links
 - **Website:** [omnifood.com](http://omnifood.com)
 - **Apps:** iOS and Android (Links not available yet)
